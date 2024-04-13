@@ -1,0 +1,13 @@
+.about-item {
+    /* outline: 4px solid blue; */
+    width: 30%;
+    padding: 1rem;
+    background: #FFF8DC;
+    border-radius: 100px 0 0 0;
+}
+
+img {
+    height: 200px;
+    width: 100%;
+    border-radius: 0 0 100px 0;
+}

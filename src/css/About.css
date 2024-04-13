@@ -1,0 +1,6 @@
+.about {
+    display: flex;
+    /* outline: 2px solid red; */
+    margin: 5rem;
+    justify-content: space-between;
+}
