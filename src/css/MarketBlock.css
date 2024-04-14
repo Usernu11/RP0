@@ -1,0 +1,6 @@
+.market-wrapper {
+    /* outline: 2px solid red; */
+    display: flex;
+    margin-bottom: 5rem;
+    justify-content: space-around;
+}

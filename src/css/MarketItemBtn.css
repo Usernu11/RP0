@@ -1,0 +1,18 @@
+.market-item-btn {
+    width: 30%;
+    height: 3rem;
+    display: block;
+    margin-left: auto;
+    border: 1px solid burlywood;
+    color: burlywood;
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 2rem;
+}
+
+.market-item-btn:hover {
+    background-color: burlywood;
+    color: #000;
+
+}

@@ -1,0 +1,23 @@
+.item-wrapper {
+    width: 25%;
+    /* outline: 2px solid red; */
+    border-bottom: 1px solid burlywood;
+    border-right: 1px solid burlywood;
+    box-shadow: inset -10px -10px 10px 0 wheat;
+    transition: ease .7s;
+    padding: 1rem;
+    border-radius: 0 100px 0 100px;
+}
+
+.item-wrapper:hover {
+    border: 1px solid burlywood;
+    box-shadow: none;
+    border-radius: 10px;
+}
+
+.item-wrapper__visual {
+    /* outline: 2px solid red; */
+    display: flex;
+    align-items: end;
+    margin-bottom: 2rem;
+}

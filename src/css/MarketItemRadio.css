@@ -1,0 +1,10 @@
+.market-item-attr-radio {
+    /* outline: 2px solid red; */
+    width: 45%;
+}
+
+.market-item-attr-radio-wrapper {
+    /* outline: 1px solid red; */
+    display: flex;
+    align-items: center;
+}
