@@ -19,6 +19,22 @@ const menuButtonsData = [
         id: 5,
         text: 'Button 5'
     },
+    {
+        id: 6,
+        text: 'Login 🔐'
+    },
+    {
+        id: 7,
+        text: 'Cart 🛒'
+    },
+    {
+        id: 8,
+        text: 'Fav 💜'
+    },
+    {
+        id: 9,
+        text: 'Lang 🌐'
+    },
 ]
 
 const aboutData = [
