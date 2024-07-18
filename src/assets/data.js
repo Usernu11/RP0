@@ -58,4 +58,16 @@ const aboutData = [
     },
 ]
 
-export default {menuButtonsData, aboutData}
+const footerData = [
+    {
+        title: 'paymentMethods'
+    },
+    {
+        title: 'information'
+    },
+    {
+        title: 'about us and more'
+    }
+]
+
+export default {menuButtonsData, aboutData, footerData}
