@@ -60,13 +60,38 @@ const aboutData = [
 
 const footerData = [
     {
-        title: 'paymentMethods'
+        item: 0,
+        title: 'paymentMethods',
+        desc: 'asdlklo12nkspaknsoo1kn24nonasoidnoanajsndoanon12noin',
+        links: 'https://myaccount.google.com/payments-and-subscriptions',
+        src: [
+            {title: 'MasterCard', img: ''},
+            {title: 'Visa', img: ''},
+            {title: 'Paypal', img: ''},
+            {title: 'GooglePay', img: ''},
+            {title: 'ApplePay', img: ''},
+            {title: 'WesternUnion', img: ''}
+        ]
     },
     {
-        title: 'information'
+        item: 1,
+        title: 'information',
+        desc: 'aasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosan'
     },
     {
-        title: 'about us and more'
+        item: 2,
+        title: 'about us and more',
+        desc: 'aasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosan'
+    },
+    {
+        item: 3,
+        title: 'contacts',
+        desc: [
+            {type: 'costumers', mail: 'costumers@comp.com'},
+            {type: 'company', mail: 'company@comp.com'},
+            {type: 'support', mail: 'help@comp.com'},
+            {type: 'collaboration', mail: 'business@comp.com'}
+        ]
     }
 ]
 
