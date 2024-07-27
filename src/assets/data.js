@@ -60,7 +60,7 @@ const aboutData = [
 
 const footerData = [
     {
-        item: 0,
+        id: 0,
         title: 'paymentMethods',
         desc: 'asdlklo12nkspaknsoo1kn24nonasoidnoanajsndoanon12noin',
         links: 'https://myaccount.google.com/payments-and-subscriptions',
@@ -74,17 +74,17 @@ const footerData = [
         ]
     },
     {
-        item: 1,
+        id: 1,
         title: 'information',
         desc: 'aasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosan'
     },
     {
-        item: 2,
+        id: 2,
         title: 'about us and more',
         desc: 'aasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosan'
     },
     {
-        item: 3,
+        id: 3,
         title: 'contacts',
         desc: [
             {type: 'costumers', mail: 'costumers@comp.com'},

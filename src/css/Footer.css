@@ -1,0 +1,5 @@
+.footer {
+    outline: 2px solid blue;
+    height: 300px;
+    display: flex;
+}
