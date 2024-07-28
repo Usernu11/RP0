@@ -1,6 +1,32 @@
 .footer-item {
-    display: block;
-    outline: 2px solid red;
-    height: 200px;
-    width: 100px;
+    display: flex;
+    flex-direction: column;
+    /* outline: 2px solid red; */
+    /* height: 200px; */
+    width: 300px;
+}
+
+.footer-item-title {
+    font-size: 20px;
+}
+
+.footer-item-desc {
+    width: 100%;
+    /* outline: 2px solid blue; */
+    /* height: auto; */
+    overflow: hidden;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+}
+
+.footer-item-mail-wrapper {
+    margin-bottom: 10px;
+}
+
+.footer-item-mail-type {
+    font-weight: bold;
+}
+
+.footer-item-mail-adress {
+    cursor: pointer;
 }

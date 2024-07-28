@@ -61,8 +61,8 @@ const aboutData = [
 const footerData = [
     {
         id: 0,
-        title: 'paymentMethods',
-        desc: 'asdlklo12nkspaknsoo1kn24nonasoidnoanajsndoanon12noin',
+        title: 'payment methods',
+        desc: 'asd lklo12n kspaknsoo1k n24nonasoidno anajsndo ano n12noin',
         links: 'https://myaccount.google.com/payments-and-subscriptions',
         src: [
             {title: 'MasterCard', img: ''},
@@ -76,12 +76,12 @@ const footerData = [
     {
         id: 1,
         title: 'information',
-        desc: 'aasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosan'
+        desc: 'aasd1 2900isaijsd09 1nanskd uibjkasnfbs ionodias dkaonosa naasd1290 0i s a ijsd091nansk daodsoak dokan odimam ainfguib jkas nfbsionodi as dkaonosana a sd12900is aijsd091n anskdaods oakdo kanodimama i nfg uib jkasnfbsiono diasdkaon osan'
     },
     {
         id: 2,
         title: 'about us and more',
-        desc: 'aasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosanaasd12900isaijsd091nanskdaodsoakdokanodimamainfguibjkasnfbsionodiasdkaonosan'
+        desc: 'aasd12900is aijsd091 nanskda odsoakdo kanodima ma infguibjk asimam ainfgu ibjkasnfb sionodiasdkao nos anaasd12 900is aijsd091 nanskdaodsoa kdokanodimamainf guib jkasnf bsionodi asdkaonos anaasd12 900 isaijsd09 1nanskdao dsoakdoka nodimama infguibjka snfbsio nodias dkaonosan'
     },
     {
         id: 3,

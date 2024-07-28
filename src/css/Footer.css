@@ -1,5 +1,12 @@
 .footer {
-    outline: 2px solid blue;
-    height: 300px;
+    /* outline: 2px solid blue; */
+    /* height: 300px; */
     display: flex;
+    gap: 100px;
+    width: 90%;
+    margin: 0 auto;
+    border-top: 1px solid burlywood;
+    box-shadow: 0px 30px 20px -15px burlywood inset;
+    padding-left: 30px;
+    border-radius: 50px 50px 0 0;
 }

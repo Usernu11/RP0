@@ -3,16 +3,16 @@ import FooterItem from '../components/FooterItem'
 import '../css/Footer.css'
 
 const Footer = () => {
-    return(
+    return (
         <div className="footer">
-            {data.footerData.map(item => {
-                <FooterItem 
-                    key={item.id}
-                    title={item.title}
-                    text={item.desc}
-                    img={item.img}
-                />
-            })}
+            {data.footerData.map(item => (
+                <FooterItem
+                key={item.id}
+                title={item.title}
+                text={item.desc}
+                img={item.img}
+            />
+            ))}
         </div>
     )
 }
