@@ -15,7 +15,7 @@ const FooterItem = ({img, title, text}) => {
                         <div className='footer-item-mail-type'>{item.type}</div>
                         <a className='footer-item-mail-adress'>{item.mail}</a>
                     </div>
-                ))
+            ))
             }</p>
         </div>
     )
